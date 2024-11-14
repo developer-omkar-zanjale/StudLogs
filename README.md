@@ -24,7 +24,7 @@ StudLogs is a comprehensive attendance management app designed to help students 
 **Installation**
 
 Clone the Repository
-- git clone [https://github.com/yourusername/StudLogs.git](https://github.com/developer-omkar-zanjale/StudLogs.git)
+- git clone https://github.com/developer-omkar-zanjale/StudLogs.git
 - cd StudLogs
 
 **Open & build the Project**
