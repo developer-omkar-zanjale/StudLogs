@@ -17,3 +17,16 @@ StudLogs is a comprehensive attendance management app designed to help students 
 **Profile:** View profile details directly within the app.
 
 **Dark and Light Mode Support:** Enjoy a seamless experience in both light and dark modes for comfortable viewing at any time.
+
+
+
+
+**Installation**
+
+Clone the Repository
+- git clone [https://github.com/yourusername/StudLogs.git](https://github.com/developer-omkar-zanjale/StudLogs.git)
+- cd StudLogs
+
+**Open & build the Project**
+- Open the project in Xcode by navigating to StudLogs.xcodeproj.
+- Build and run the project on your preferred simulator or device.
