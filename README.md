@@ -19,6 +19,33 @@ StudLogs is a comprehensive attendance management app designed to help students 
 **Dark and Light Mode Support:** Enjoy a seamless experience in both light and dark modes for comfortable viewing at any time.
 
 
+<body>
+    <h1>Basic Overview [Dark & Light Mode]</h1>
+    <img style="padding: 30px;" src="https://github.com/user-attachments/assets/076435fb-8082-425f-b903-556852b92b03" width="300" />
+    <p>
+    <h3>Sign-In</h3>
+    <div>
+        <img style="padding: 30px;" src="https://github.com/user-attachments/assets/140f56cd-b3dc-4b34-8d36-d8cfb5e4ee4f" width="300">
+        <img style="padding: 30px;" src="https://github.com/user-attachments/assets/3b2f83f5-779f-438b-8be2-5610ab7f29d8" width="300">
+    </div>
+    </p>
+    <p>
+     <h3>Sign-Up</h3>
+    <div>
+        <img style="padding: 30px;" src="https://github.com/user-attachments/assets/8ea222cf-81cf-4889-8a8b-4a80c89c4cf3" width="300">
+        <img style="padding: 30px;" src="https://github.com/user-attachments/assets/522856d7-a480-4909-b7fc-f16a029d6012" width="300">
+    </div>
+    </p>
+    <p>
+   <h3>Home</h3>
+    <div>
+        <img style="padding: 30px;" src="https://github.com/user-attachments/assets/4d9eaa41-92a3-4c8f-b1ef-8f991d4f19f9" width="300">
+        <img style="padding: 30px;" src="https://github.com/user-attachments/assets/e3c0ddaa-f35c-4f92-b1eb-373206248e6d" width="300">
+    </div>
+    </p>
+</body>
+
+
 
 
 **Installation**
